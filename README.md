@@ -91,6 +91,3 @@ Follow these steps to set up and run the project locally:
    ```
 
 ---
-
-*Built with ❤️ for the IIIT community by the Maitrek Patel😎.*
-"# fusion-app" 
